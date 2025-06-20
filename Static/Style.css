@@ -1,0 +1,19 @@
+body{
+    font-family : Arial,sans-serif;
+    background-color :#37172a;
+    text-align:Center;
+    padding-top:100px;
+}    
+
+ .Container{
+    background-color : #b185ca;
+    border-radius : 100px;
+    box-shadow: 0 4px 8px rgba(8, 7, 7, 0.2);
+    display:inline-block;
+    padding:40px;
+ }   
+ a{display: inline-block;
+margin-top:20px;
+text-decoration:none;
+color:#3d4e6b;
+font-weight:bold;}
